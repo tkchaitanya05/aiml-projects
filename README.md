@@ -15,23 +15,23 @@ The output of the Test file [FasterRCNN_VGG16_Test.ipynb](FasterRCNN_VGG16_Test.
 Below are a few snippets of the model ouput identifying some key moments in the football match video we used for Test:
 
 <picture>
-<img alt="Output Goal Image 1" src="/Football Highlights/Test output files VGG16/Model_Output_test_Goal1.png">
+<img alt="Output Goal Image 1" src="/Football_Highlights/Test_output_files_VGG16/Model_Output_test_Goal1.png">
 </picture>
 
 <picture>
-<img alt="Output Goal Image 2" src="/Football Highlights/Test output files VGG16/Model_Output_test_Goal2.png">
+<img alt="Output Goal Image 2" src="/Football_Highlights/Test_output_files_VGG16/Model_Output_test_Goal2.png">
 </picture>
 
 <picture>
-<img alt="Output Penalty Kick Image 1" src="/Football Highlights/Test output files VGG16/Model_Output_test_PenaltyKick1.png">
+<img alt="Output Penalty Kick Image 1" src="/Football_Highlights/Test_output_files_VGG16/Model_Output_test_PenaltyKick1.png">
 </picture>
 
 <picture>
-<img alt="Output Penalty Kick Image 2" src="/Football Highlights/Test output files VGG16/Model_Output_test_PenaltyKick2.png">
+<img alt="Output Penalty Kick Image 2" src="/Football_Highlights/Test_output_files_VGG16/Model_Output_test_PenaltyKick2.png">
 </picture>
 
 <picture>
-<img alt="Output Corner Kick Image2" src="/Football Highlights/Test output files VGG16/Model_Output_test_CornerKick.png">
+<img alt="Output Corner Kick Image2" src="/Football_Highlights/Test_output_files_VGG16/Model_Output_test_CornerKick.png">
 </picture>
 
 **Contributors to the project** - Other team members who contributed to the project are: Prashant Kumar, Abhaya Thakur, Nikhil Malhotra, Vigneswaran Sundaramurthy, Shivam Chauhan, 
