@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>redcard_2_jpg.rf.b6a1835f6219dddd20a2e511eec267cd.jpg</filename>
+	<path>redcard_2_jpg.rf.b6a1835f6219dddd20a2e511eec267cd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>304</xmax>
+			<ymin>11</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

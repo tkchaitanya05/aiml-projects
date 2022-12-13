@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_3_276_jpg.rf.d2c1dc254317e6f11b156b09af3e2980.jpg</filename>
+	<path>image_3_276_jpg.rf.d2c1dc254317e6f11b156b09af3e2980.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corner kick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>402</xmax>
+			<ymin>62</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

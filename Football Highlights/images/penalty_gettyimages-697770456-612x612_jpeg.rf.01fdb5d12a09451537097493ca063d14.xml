@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>penalty_gettyimages-697770456-612x612_jpeg.rf.01fdb5d12a09451537097493ca063d14.jpg</filename>
+	<path>penalty_gettyimages-697770456-612x612_jpeg.rf.01fdb5d12a09451537097493ca063d14.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penalty kick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>92</xmin>
+			<xmax>308</xmax>
+			<ymin>51</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

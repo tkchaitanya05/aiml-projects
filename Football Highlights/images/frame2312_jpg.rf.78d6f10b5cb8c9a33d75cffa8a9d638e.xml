@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>frame2312_jpg.rf.78d6f10b5cb8c9a33d75cffa8a9d638e.jpg</filename>
+	<path>frame2312_jpg.rf.78d6f10b5cb8c9a33d75cffa8a9d638e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penalty kick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>137</xmin>
+			<xmax>402</xmax>
+			<ymin>68</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
