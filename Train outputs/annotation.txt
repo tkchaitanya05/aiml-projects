@@ -1,0 +1,243 @@
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g13_JPG.rf.161c4331d7217f64a2a5c6bd78368e88.jpg,122,267,255,370,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g11_JPG.rf.9924b6b46819ee8703f6a4503223b587.jpg,244,93,391,280,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g14_JPG.rf.08947ae2e7dad4c177dac1b209339831.jpg,164,33,379,298,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g15_JPG.rf.4b02fe84d28e19a9f62984c69159b8a4.jpg,25,76,53,249,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g10_JPG.rf.b01e818e38fe545517716998eb6939ab.jpg,10,32,404,406,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g12_JPG.rf.8cebd9511a8e551a884dcfdd1bbb9a5e.jpg,302,109,391,286,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Goal_gettyimages-697770456-612x612_jpeg.rf.57299f2ca57c91e683ab099cf2d8d892.jpg,178,63,325,245,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g1_JPG.rf.95690bd6de5bb8e5b4c6c78f5297522d.jpg,268,45,401,197,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g25_JPG.rf.939ab290da4cf27968205fb690304beb.jpg,8,163,51,255,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g24_JPG.rf.e8559ade992de5a13501183ba8bd831e.jpg,85,63,241,314,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g21_JPG.rf.9aeed2991b8f7c2f67cccd75ac368936.jpg,49,183,153,320,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g19_JPG.rf.b94e94519b13ded4c634e585897e21e1.jpg,107,162,176,358,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g18_JPG.rf.32910455ffa2e441bb4bf1a1b68b75b7.jpg,30,309,147,413,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g27_JPG.rf.5b76ce733cdb9ef768d1a742431bb30e.jpg,5,12,401,413,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g17_JPG.rf.8ea218f2b28e5d3dd206e4d5aeee4aac.jpg,9,16,403,409,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g22_JPG.rf.587884af3f4709beb297bb9403eb32f5.jpg,203,169,276,344,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g28_JPG.rf.4b9d7d85a62030df8601dcf78e44c208.jpg,147,142,234,323,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g23_JPG.rf.ef1d29f2b34bc0adf7cb968d12187a07.jpg,48,64,107,154,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g16_JPG.rf.64f93846c084d30e3f1d063be6837059.jpg,7,20,404,414,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g26_JPG.rf.6d7a29082cccbda6fe0cd4dcd2bb3121.jpg,6,12,400,414,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--6-_jpeg.rf.eaff95f865057f3763ab10d9531db79e.jpg,133,4,386,245,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g9_JPG.rf.1e5821a7a8174e2d03a2a898ed170f55.jpg,7,140,145,301,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--2-_jpeg.rf.f943fd5f223ab0f35451b46a50f86588.jpg,247,16,334,273,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g5_JPG.rf.db99cb279a006c0e2ed4cd71158ab2a4.jpg,44,139,206,309,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--5-_jpeg.rf.b994e7b75c77d0e15a7c1beea5b37fc2.jpg,87,52,399,254,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--4-_jpeg.rf.45b3289646dcd5b2a8d222ee88e39618.jpg,37,90,159,321,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--1-_jpeg.rf.f005dd35de8c5fbb9b82f41a15b9c8a2.jpg,238,36,367,360,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--3-_jpeg.rf.67bb0c6152a7a5b46cb961f798f3e1b2.jpg,87,9,263,311,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g3_JPG.rf.c31b42b0621ab1be43a21df5a536f688.jpg,50,114,184,302,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g6_JPG.rf.3c42e06e61bbf63fcbd6e278ae542eb7.jpg,43,108,159,294,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g7_JPG.rf.6484100d40dcc376544c0052709f09d3.jpg,234,99,330,267,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g8_JPG.rf.878efb8cf1040c1f863ce6da5d5a31b5.jpg,65,127,214,291,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g2_JPG.rf.6f3a0b9648a488e25fd0f71ba11cf9d5.jpg,17,121,96,287,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/g4_JPG.rf.d2689ff815188182376f702724f4c2fb.jpg,36,109,188,279,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--12-_jpeg.rf.333c80dd48ad4021d22a613440f4646d.jpg,159,142,347,357,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download_jpeg.rf.252b213626a9f93e955ac9fca7d25b1f.jpg,52,129,187,372,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--14-_jpeg.rf.fe02a7b22160840f2d17d2d5ff48a2fe.jpg,44,8,316,338,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_download--8-_jpeg.rf.a3635f9f9132056b73819b81a6110619.jpg,91,27,248,310,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--10-_jpeg.rf.91bbec42faa2e6039e789e0e82eb0c13.jpg,26,71,174,255,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--1-_jpeg.rf.2a96e9883d6ad28c0c772d9964ba680c.jpg,140,74,266,230,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--2-_jpeg.rf.33d0ebeee1b037eb10c80a59accd07ac.jpg,144,6,300,334,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--19-_jpeg.rf.7a3b660c69479ab7b77124ead6ebf35e.jpg,32,140,251,412,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--18-_jpeg.rf.3445f717f55ee383e62dcf7c05c83c2b.jpg,264,267,398,392,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--11-_jpeg.rf.ca84223478014993f74cb10768ce3cf3.jpg,87,56,278,310,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--17-_jpeg.rf.42364827b2818d56b252b634b1895fa2.jpg,135,123,333,345,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--15-_jpeg.rf.0e9fb2f2ef54f227107fa4d100d74ab3.jpg,112,28,203,288,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--16-_jpeg.rf.8f60a9e3312cb5eae8871bd043a3e7bb.jpg,118,3,312,142,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--13-_jpeg.rf.d576a21f2049628b6ed5822c5270bb77.jpg,118,1,213,250,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--5-_jpeg.rf.f5b08d3d5f7ee46afc3a4078a109a5b2.jpg,34,26,217,343,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--8-_jpeg.rf.51b2f21b8f043c5362f5343bc1e0ee2a.jpg,63,71,277,289,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--3-_jpeg.rf.e26e85f9fc2ea38f189710afced67173.jpg,136,98,240,261,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--9-_jpeg.rf.d70add31536d5af263cc818f1cadb777.jpg,20,95,248,328,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--20-_jpeg.rf.8c0e6eefdd07d9c99ebc02447ce277ba.jpg,272,3,377,316,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--4-_jpeg.rf.32d8052b8ce61a671e89f9336976f039.jpg,22,206,339,398,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images_jpeg.rf.18e223e0f34a36835575cd6c81782070.jpg,54,132,382,404,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11450_jpg.rf.741a669f32834c1a89c34af9c252261c.jpg,42,40,350,210,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11802_jpg.rf.57192d7333326e74a944b7eca273f07a.jpg,114,80,207,314,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame10589_jpg.rf.3e69e00589c204f2b436ae6cecc6cb72.jpg,126,99,365,267,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame10583_jpg.rf.89f3c4dbe630ae063a2d5e1522df72c1.jpg,125,117,354,261,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame1001_jpg.rf.e6dd7ea81544fc5544c619240c89837c.jpg,190,49,254,375,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11808_jpg.rf.798874587b1e0a82f7e03fb6c5aa0a0c.jpg,139,88,206,354,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11452_jpg.rf.290d2c97074ae68ac1884fc66f6c3fe6.jpg,31,42,360,207,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11156_jpg.rf.4660e4f757a681546783d0a8c3ed4ca5.jpg,171,7,275,365,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame11157_jpg.rf.69d72faec2523e0d1999908e1e8582f3.jpg,173,10,265,347,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame2194_jpg.rf.762f297563bdab713c99e692963cd226.jpg,134,30,272,299,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3214_jpg.rf.c38223133279a19d6fb7e2a46e360527.jpg,70,70,404,348,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3853_jpg.rf.be936035209710e413d741f87c650fbb.jpg,8,106,345,332,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame2312_jpg.rf.78d6f10b5cb8c9a33d75cffa8a9d638e.jpg,137,68,402,246,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame1971_jpg.rf.f3a01c9615be4ef6bb6e33ca9ac6c7cb.jpg,39,53,402,269,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame2751_jpg.rf.d7f8a67679cb2126acaac27fc11d865a.jpg,4,53,350,259,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame1234_jpg.rf.7d0599e2ec87b644043ca130793d9dda.jpg,67,94,383,271,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame2754_jpg.rf.0118807b10f2d1ce9c4146629cca4561.jpg,6,61,336,276,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3209_jpg.rf.8c8769bcf01dd9c34cef953e9130cbb1.jpg,10,80,404,321,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3575_jpg.rf.73c36f4c33238bca4b07b9981112d270.jpg,9,163,297,299,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3849_jpg.rf.d42621161cea3d585d645a3033f27da9.jpg,17,138,405,324,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame3581_jpg.rf.febe11bb22e5276661c9872105313887.jpg,11,165,285,285,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame514_jpg.rf.354f89ff2332789a384a669835a29b11.jpg,174,14,316,403,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5431_jpg.rf.ebc58d6379b1fa683ad08baec3912656.jpg,125,1,235,365,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5684_jpg.rf.fb21e7a513f192a808e472f25301fbc6.jpg,107,99,409,298,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame4908_jpg.rf.625c32d40580eb36154c68065dae8ad3.jpg,71,117,371,252,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame4913_jpg.rf.9c1080b2e891e8329392c4070e0b1b45.jpg,47,125,370,283,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5952_jpg.rf.9121884dd32dcdf9411a226ed23d0608.jpg,85,30,246,412,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5239_jpg.rf.d942129736ffeab4c7910f3b48e3c2c8.jpg,3,27,310,228,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame6356_jpg.rf.db21789fcd92c0575e0ae63c83b7897e.jpg,40,86,399,305,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5244_jpg.rf.58ef2b46ccb105ce1479b8cefc258327.jpg,16,24,288,221,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame385_jpg.rf.67b52075c89ce945e140de5218421ee7.jpg,14,163,298,335,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5681_jpg.rf.9339766057f0ae566cd77948429e67bb.jpg,86,90,405,307,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame5944_jpg.rf.30faace010c61435434449953867691b.jpg,93,22,251,407,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame6632_jpg.rf.f3f7d57be862269c003527b228f631e7.jpg,53,102,343,273,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame8553_jpg.rf.6d332ae93b99e430ce60cd21769d87ea.jpg,19,67,328,250,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame873_jpg.rf.30264a715901eb6d1c9a959904d90b74.jpg,68,126,354,264,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7816_jpg.rf.717cb65f1f0d32b0412c5e66ee21f739.jpg,136,65,243,355,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7026_jpg.rf.277c07ac8748f607d7ab1cf065f580f2.jpg,9,76,332,224,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7694_jpg.rf.f10271b0bbfa58915d518e95b580113a.jpg,50,47,367,221,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame872_jpg.rf.e1f330818df7150cdd12d260f162cf6f.jpg,63,113,344,250,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7808_jpg.rf.2d58ae7933da8ff62f798b5eb75c232e.jpg,115,53,245,386,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7391_jpg.rf.e275499131948569af0792d3c5264930.jpg,145,10,224,177,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame8551_jpg.rf.66f0c55bd94fb4d1d4b42456e55ad400.jpg,13,67,321,245,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame7696_jpg.rf.9dd5b25a6d986a1446ea8cb30b34adab.jpg,37,25,354,232,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame6359_jpg.rf.de276d9de323fde2435f75528e624b8d.jpg,28,96,387,281,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame6636_jpg.rf.444d42c032f669c934df6fe5d20bc39a.jpg,63,99,390,288,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame9801_jpg.rf.d29c3d11d7e6a95e6a79939ed733d423.jpg,101,122,342,247,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p17_jpg.rf.2bb7ea944e562e83de3187cfecc2f21a.jpg,105,9,296,369,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p10_JPG.rf.5befac7a180b84b88f8b8a1b4715b07e.jpg,55,135,365,326,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p11_JPG.rf.6c2b52bf3bfb3efc0a95f39ba29c2e8a.jpg,38,125,393,345,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame9797_jpg.rf.6299d647e3b93cf8cfff972e2884b969.jpg,104,114,331,245,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p18_JPG.rf.c63b15d847f6246e4ff363e1ae5ac63b.jpg,36,135,348,301,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame8880_jpg.rf.12f570b27ccfe915b36b6b1afb71a12a.jpg,26,195,389,321,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p15_JPG.rf.daedec8350b9e0ae0ae3c363ed7d691b.jpg,61,113,360,298,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/frame8878_jpg.rf.65f9de383f140024df2bb4f116dcebbc.jpg,4,83,410,308,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p13_JPG.rf.f8e5ff610934e713a4292f0e9a10e626.jpg,45,118,404,297,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p12_JPG.rf.c6a13d045c8b0bd3e1a90e114ed728b8.jpg,38,104,346,322,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p16_JPG.rf.068fa1cabf4db49827b3d15ef2a1752a.jpg,28,111,338,294,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p14_JPG.rf.a6060c292558ad5c05ff6e679ff9f6ce.jpg,61,113,370,312,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p7_JPG.rf.e558ab3c3822a6ee1d76a8c9a88f120c.jpg,141,1,312,406,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p22_JPG.rf.415240478f8e8e12b422186fde9c3b01.jpg,43,2,252,416,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p3_JPG.rf.06a74c15c6b3dd0b96bea84178cc3dd8.jpg,25,99,392,270,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p24_JPG.rf.a60f289479f54f24344e9afbad282349.jpg,60,4,268,410,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p23_JPG.rf.c6df644961979cd815adb3aa00648fa5.jpg,62,107,390,314,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p6_JPG.rf.6f7436a51c6ba59b9cd11d0804eb532f.jpg,71,10,339,337,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p5_JPG.rf.aa53d6e87526357d67b3b3ef4226ab9a.jpg,23,48,375,233,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p25_JPG.rf.8ca45cb81d752bea86639585de2faf9e.jpg,92,1,247,411,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p19_JPG.rf.db95a3efc617449963eb76fd778afc85.jpg,45,137,384,335,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p21_JPG.rf.67ef28924ccbf940fe1211f4040b6686.jpg,34,138,377,317,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p20_JPG.rf.753b07793b28d84328c91262fa996242.jpg,46,137,390,333,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p4_JPG.rf.16dc1597e6981b13a3f608b45cd2e686.jpg,126,27,248,387,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_download--2-_jpeg.rf.15fea3c6868c1cce2c2bb2f7faad01f3.jpg,14,25,373,282,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p9_JPG.rf.3cbd642ea3c387cedd26fd81dcdc49b3.jpg,67,42,381,193,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_images--2-_jpeg.rf.883c1d4684176c6b19d062fc73b80bbe.jpg,24,77,404,315,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_penalty1_jpeg.rf.b85bb561211bfc085fa69a6e200d0908.jpg,109,119,409,241,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_gettyimages-697770456-612x612_jpeg.rf.01fdb5d12a09451537097493ca063d14.jpg,92,51,308,338,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_gettyimages-647672186-612x612_jpeg.rf.50282a41f68724d3f095771cf2bce625.jpg,152,47,416,230,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage132_jpg.rf.d5b14706e2bdf3261deaf9ae90074de3.jpg,337,90,414,275,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage161_jpg.rf.c821253ea3a4b39a589be195fa34fc1d.jpg,290,26,341,101,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage149_jpg.rf.bdc7c2cb1e5f697d4dc22c6399e9722f.jpg,180,91,225,170,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage110_jpg.rf.fe3b609d994723afb5312eddc20b03da.jpg,48,4,270,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage170_jpg.rf.1917b1e76561fb803ed066a22fce3572.jpg,138,1,294,315,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage259_jpg.rf.d81d49dc52c4914d340958e26a3196e9.jpg,270,163,349,336,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage121_jpg.rf.06226da0104ac2a3097e9bfbe57bd66d.jpg,243,1,306,113,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage379_jpg.rf.7df662d5b74a3ef12df4cf5f347d5fc4.jpg,162,62,213,156,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage80_jpg.rf.9be6432459a1c34e4405c24b47086772.jpg,250,51,323,195,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0010_jpg.rf.07ff3ae8a033462f76a369f33274af80.jpg,10,66,392,409,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage368_jpg.rf.f81e9c2cb19cd6bd2e8e0ed445aa2e4e.jpg,166,84,223,192,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage350_jpg.rf.765c7fefeaa5ceb29d951f4e753714cb.jpg,140,47,300,376,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage91_jpg.rf.59ccf6cc085bf4fbca655e009b875a6b.jpg,89,76,402,397,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage408_jpg.rf.b980dfec20c19b761655979d4c1ee8a4.jpg,284,15,331,112,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage331_jpg.rf.485540f1e09e4e1045f323bbec178cdf.jpg,164,55,211,134,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/Image_Framesimage302_jpg.rf.13fab1cf8fa5c28ce6bf159fd68e39d3.jpg,189,185,294,325,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0011_jpg.rf.87b1e23fe88132838d248428ef771a23.jpg,142,88,396,407,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0017_jpg.rf.35d42dddd2f9308e19ead42577f5106e.jpg,60,103,224,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0015_jpeg.rf.4a65e27a8f7638ef300fc64b510ae022.jpg,62,74,249,407,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick001_jpg.rf.bce8bc3dbea3b33cab6e88b29285363b.jpg,243,122,407,391,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0012_jpg.rf.b63c39526ca3e4e9278af5f950dd4f3e.jpg,2,165,115,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0020_jpg.rf.947530f596e8ba0c465319d700303442.jpg,244,165,378,404,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0013_jpg.rf.55e4fd37d4882e1bfeba440ef68e4bf6.jpg,28,59,210,414,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0014_jpg.rf.ca05bd917ae1a4331ddb9e0931fc0b56.jpg,19,144,148,386,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0016_jpg.rf.201e3b24e4d114ca19fd8d13f7f526ca.jpg,146,123,233,399,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0018_jpg.rf.84e9f2e9c629744153dcd15b11fdabbb.jpg,180,223,283,406,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0019_jpg.rf.acdb58453d494e3542e73a20988e0f22.jpg,87,131,217,333,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0023_jpg.rf.1b6c2e05ae63f65b87b1eeaea144ff78.jpg,24,139,124,384,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0026_jpg.rf.d96a8c123366f9476777e762f888be65.jpg,117,5,389,415,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0022_jpg.rf.c7e741201daf732afaa7eab9fa54fc4f.jpg,11,74,226,398,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0030_jpeg.rf.c226188a110e46bd875de91b6a8533de.jpg,221,93,369,386,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0021_jpg.rf.1914155425b404449ea92b76ec305406.jpg,103,38,392,378,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0027_jpg.rf.7e985808a7a82ebb05cdd77423645817.jpg,165,57,366,373,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0029_jpg.rf.723206b279d43650ee63e8cf1ab27f37.jpg,23,242,145,413,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick002_jpg.rf.00ec297f15805c867250dd4b8588c4c2.jpg,108,26,349,410,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0028_jpg.rf.f2874a05d41f46d71c4bad970e6d9a44.jpg,86,5,287,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0025_JPG.rf.212bba7486c04108239221f350e21de3.jpg,114,54,372,368,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0024_jpg.rf.18b542f2c0b10a1b807bea415c89a98a.jpg,185,92,389,316,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0036_jpg.rf.1ed68ba8cb9373c2ee8ce68181c0bceb.jpg,55,22,213,413,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0037_jpg.rf.6496e04b6768d0477ab2c188a82f8849.jpg,149,107,362,371,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0033_jpg.rf.06af98093f9a34f6ec8eb80ad3bc7ee4.jpg,60,25,233,397,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0039_jpg.rf.70a4d76d75103369e3fdaf9463f5407b.jpg,184,54,395,384,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0034_jpg.rf.3ec9303a391fb2238db9e91b83273e90.jpg,246,79,414,406,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0038_jpg.rf.0cea112342eea659a9e5ef7f6b651806.jpg,7,79,195,383,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0035_jpg.rf.d507e9a2b5dc86384dbf964646f4e486.jpg,193,77,280,345,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0032_jpg.rf.423bdbebfd29ef3f215ccdd96362e737.jpg,21,132,379,414,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0045_jpg.rf.7bf77db437ea6e751798356b0669bc1f.jpg,28,175,162,357,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick003_jpg.rf.82bff9e057f83675e48559303309203c.jpg,239,173,299,327,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0043_jpg.rf.e184c49f23b00aa19144ecb207e89945.jpg,20,83,291,394,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0041_jpg.rf.3820927575c4c85b7930d025afc04d9c.jpg,66,19,416,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0046_jpg.rf.a6078267ba2c6c8120d714d4356dc253.jpg,100,6,319,402,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0042_jpg.rf.0bd32378c793fddf8549e8ae7b7a6303.jpg,249,279,326,408,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0050_jpg.rf.6e1d4c5cebf82b7c76d694f983824365.jpg,21,10,260,402,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0049_jpg.rf.5354a59f6fbb7b9d5573159813c57f20.jpg,78,83,312,413,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0047_jpg.rf.3ad719b2eab5e6f691d126306653ea60.jpg,158,76,290,411,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick005_jpg.rf.113d58a7053ef65b246ae89adf20ae1a.jpg,121,55,400,416,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick007_jpg.rf.c812cb60155629cad4c8c05ce714a198.jpg,92,91,297,415,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick004_jpg.rf.dae6830824af7b612db965b4b70817da.jpg,30,64,164,405,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick0048_jpg.rf.9f7e7e0aca9f130ea0e5a6859747f626.jpg,142,9,307,372,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick006_jpg.rf.4b9b46d8465500d1e761c8dbaff837f3.jpg,16,107,181,404,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2187_jpg.rf.ac02d7ac532e4c56d5eccbb520b43c93.jpg,116,55,246,373,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2189_jpg.rf.baf2e5af28924a2adcbb916689265a69.jpg,121,58,235,362,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2159_jpg.rf.5d75111d337737061cddf1c4af60242b.jpg,290,22,349,119,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2197_jpg.rf.ac3da57fbd0211ca958cca86f1428afb.jpg,47,40,130,206,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2188_jpg.rf.a0abcb2d50de50b9ab6f3fbd06ee64e8.jpg,108,73,252,362,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/cornerkick008_jpg.rf.868b8759d42033303b0032141535f324.jpg,42,33,213,368,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_2105_jpg.rf.766b6d6b15fa8aaebae507a27318fb35.jpg,116,70,243,402,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_229_jpg.rf.881fc3269d01dc47afbc2b7a375ccdcc.jpg,237,217,347,391,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_230_jpg.rf.edf2c72647287475dc8174f77d642fe3.jpg,249,253,335,383,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_276_jpg.rf.d2c1dc254317e6f11b156b09af3e2980.jpg,189,62,402,380,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_277_jpg.rf.69813a9fa3adc565ef1d075917cd623b.jpg,248,109,305,206,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_265_jpg.rf.4b9d1389ab00894346c72fa14c63a5ec.jpg,282,76,341,181,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_208_jpg.rf.ed37d6f005ac1f168640d9e596fa10ee.jpg,282,15,353,116,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_117_jpg.rf.450c36d7950491124692647548d8cf19.jpg,134,62,195,174,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_125_jpg.rf.0d5470df3b54a93a2d0719fb338a7059.jpg,116,12,254,297,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_136_jpg.rf.d7553a6c1bd9ee3e5fbe4f2421da18d4.jpg,262,22,304,101,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_61_jpg.rf.b7ba7238f28271bb8f450d74544f36a0.jpg,136,40,185,156,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_364_jpg.rf.6433053d701a82a43a71e3f49e96b8a1.jpg,182,26,243,119,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_339_jpg.rf.5d0d963c45d1db209d7b4490bfee746f.jpg,256,1,303,105,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_382_jpg.rf.7d82e60d7b920e60179ebbc86e31f8ce.jpg,186,145,304,315,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_363_jpg.rf.0edc729985efb05a0d45f397ac2534d3.jpg,170,33,235,134,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_73_jpg.rf.b57b8699679d50aa945e4e4e4898d30b.jpg,298,12,337,102,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_327_jpg.rf.92edb67aa604f869cba79b575c3bf085.jpg,73,19,268,402,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_283_jpg.rf.dc544892b9b557e2b1ac9c7e82555b8e.jpg,284,58,357,192,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_351_jpg.rf.f3ea30be77db56d5a26aa46668d7d595.jpg,185,40,246,174,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--11-_jpg.rf.2c10c76e19b50199ba6e0831f881369d.jpg,148,8,203,182,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--12-_jpg.rf.cbf80c08840b753e010d1bdc4e4a381d.jpg,119,47,164,125,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--1-_jpg.rf.9bcfb3590e320176a8fd5566be3be0d4.jpg,116,1,283,415,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--10-_jpg.rf.89cfa390d530ec51a1df8cd6ae2d1f89.jpg,120,1,210,207,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download_jpg.rf.0cbbb559012e7f43b8cefbc3a5780343.jpg,267,4,319,122,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--5-_jpg.rf.adcb24e53d8d1fd8bdbce8fbc33f5e1d.jpg,66,98,152,415,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--3-_jpg.rf.f57549d6ad0e198e79613c50e5ebcefc.jpg,219,4,344,130,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--11-_jpg.rf.9160413a8f0e08c471fe796b97ed2996.jpg,173,1,237,95,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--6-_jpg.rf.c9fef70f7de327e88a7308aef8241b6e.jpg,143,1,200,140,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--2-_jpg.rf.cfbcdb036cc4bc4f8c8c5669a647ba01.jpg,240,3,298,91,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--4-_jpg.rf.f150b42a4900e2b9f402cb6487d45816.jpg,178,8,264,299,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--10-_jpg.rf.7af51596fbc2d81a33a14a5cb74536ac.jpg,133,40,189,178,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--9-_jpg.rf.5e34413084ba3a03382a45a4f1cbccfb.jpg,38,8,99,187,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--7-_jpg.rf.fc0a54b903d8491261d16b2533d1c47e.jpg,77,1,151,172,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/download--8-_jpg.rf.7f650d1572e34c53c5ca4c7456535306.jpg,278,25,363,265,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--1-_jpg.rf.409fe94aeeb4417a1d75d6819e79be89.jpg,123,1,193,115,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--8-_jpg.rf.254a7a9e5f9bb2a5ff5c261ee10403e4.jpg,233,1,333,169,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--6-_jpg.rf.3b2b7b51e6cf3554888e8837facc71ab.jpg,152,4,202,118,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--5-_jpg.rf.a4b78d0dd957d8abb8138c5bf962cdab.jpg,165,4,263,241,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images_jpg.rf.34c434e27616a4096b5aefe3ccff3e52.jpg,213,1,260,138,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--9-_jpg.rf.1974b9706e24f99801e45f180b14f9ca.jpg,53,1,180,185,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--7-_jpg.rf.467f2c95087cd449d9ab488e1b3d993f.jpg,217,8,294,219,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--2-_jpg.rf.c59c462eb845cc9a57c8c12a1fdc155e.jpg,56,16,105,142,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--4-_jpg.rf.094a6fbc359d0fad19eddb0a0409beb9.jpg,55,1,140,209,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--3-_jpg.rf.d2906c157e49bc7a518ac78881aa96a6.jpg,120,8,183,157,foul
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/images--12-_jpg.rf.7b2ba1e5f2c76eee0a1ee7b29bd0bfa2.jpg,297,4,368,149,foul

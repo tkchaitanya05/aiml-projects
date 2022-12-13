@@ -1,0 +1,11 @@
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--7-_jpeg.rf.a6fe8e8d0fc3c71026fbea6c7b58191e.jpg,60,4,218,303,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/goal_images--6-_jpeg.rf.40239fdc185857bb8526891719eb2beb.jpg,7,49,159,369,goal
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_download--7-_jpeg.rf.756b7c8ceb4c00add58873c538976f55.jpg,8,11,371,249,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/p8_JPG.rf.65f32f4c4c2388f2a5621f81b1433275.jpg,151,6,304,384,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty1_JPG.rf.a0ecc7ab049be6acc4367a5d792f2add.jpg,22,59,237,414,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/penalty_download_jpeg.rf.5e7c6a024d6244d56e481f8c3f8e3fe0.jpg,14,36,373,241,penalty kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_4_61_jpg.rf.f8cf971748302f3d41cfee15f346b25d.jpg,161,84,322,399,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_4_78_jpg.rf.0136ffd7f79631cce0ef83bc5564169c.jpg,311,283,383,395,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_84_jpg.rf.66f392db8221ee7047021ed743e4c7c8.jpg,22,62,296,369,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/image_3_85_jpg.rf.ee128f63464c65894ddb0092f8f8df1f.jpg,129,84,357,394,corner kick
+/gdrive/My Drive/Final Capstone/FasterRCNN/images/redcard_2_jpg.rf.b6a1835f6219dddd20a2e511eec267cd.jpg,218,11,304,201,foul
